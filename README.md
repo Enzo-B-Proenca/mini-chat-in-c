@@ -2,7 +2,7 @@
 Projeto acadêmico de um pequeno chat multi-cliente em C que usa socket e select com a funcão adiconal do servidor realizar operações matemáticas.
 
 ## Objetivos
-- O servidor aceita múltiplas conexões usando select() e faz broadcast de mensagens.
+- O servidor aceita múltiplas conexões usando select() e envia respostas.
 - Cliente envia mensagens ao servidor via terminal por socket.
 - O servidor aceita múltiplas conexões.
 ## Estrutura
